@@ -1,0 +1,14 @@
+Package: nlohmann/json
+Repository: https://github.com/nlohmann/json.git
+Checked on: 2026-03-24 UTC
+Checked-out commit: eba0a92bfb1a
+
+Current public vulnerability status:
+- No published security advisories were visible on the GitHub security page as of 2026-03-24.
+- This is an inference from public tracker state, not a full source-code audit of this checkout.
+
+Notes:
+- The project does publish a SECURITY.md and asks for private disclosure through GitHub Security Advisories.
+
+Sources:
+- https://github.com/nlohmann/json/security

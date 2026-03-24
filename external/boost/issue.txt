@@ -1,0 +1,16 @@
+Package: Boost
+Repository: https://github.com/boostorg/boost.git
+Checked on: 2026-03-24 UTC
+Checked-out commit: 460b20ab28cc
+
+Current public vulnerability status:
+- No published repository-level security advisories were visible on the Boost security page as of 2026-03-24.
+- Historical public vulnerability to keep in scope: CVE-2019-6246. NVD describes an out-of-bounds read / access violation in SVG++ code used with Boost GIL.
+- The "no current advisories" statement is an inference from the repo security page. It is not proof that every Boost sublibrary has no historical or downstream vulnerability exposure.
+
+Notes:
+- Boost is a super-project spanning many libraries. Review of individual sublibraries may still be required for production intake.
+
+Sources:
+- https://github.com/boostorg/boost/security
+- https://nvd.nist.gov/vuln/detail/CVE-2019-6246

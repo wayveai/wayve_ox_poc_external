@@ -1,0 +1,14 @@
+Package: Catch2
+Repository: https://github.com/catchorg/Catch2.git
+Checked on: 2026-03-24 UTC
+Checked-out commit: ccc49ba66484
+
+Current public vulnerability status:
+- No published security advisories were visible on the GitHub security page as of 2026-03-24.
+- This is an inference from public tracker state, not a full source-code audit of this checkout.
+
+Notes:
+- Catch2's security policy explicitly says the project should not normally process untrusted input, which likely reduces its attack surface in typical use.
+
+Sources:
+- https://github.com/catchorg/Catch2/security
